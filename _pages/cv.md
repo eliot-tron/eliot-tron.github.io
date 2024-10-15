@@ -11,35 +11,63 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Machine Learning and Geometry entitled _Neural Network Robustness: a Riemannian Foliation Perspective_, [ENAC](https://optim.recherche.enac.fr/) Toulouse, 2025 (expected)
+* M.S. in Mathematics, [ENS de Lyon](http://www.ens-lyon.fr/), 2021
+* License (B.S.) in Theoretical Computer Science, [ENS de Lyon](http://www.ens-lyon.fr/), 2019
+* License (B.S.) in Mathematics, [University Lyon 1](https://www.univ-lyon1.fr/), 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 01 October 2022 - End of 2025: PhD Candidate
+  * [ENAC](https://optim.recherche.enac.fr/), Toulouse, France.
+  * 2 months a year at [University of Bologna](https://www.unibo.it/en), Italy.
+  * Subject: _Neural Network Robustness: a Riemannian Foliation Perspective_.
+  * Supervisor: [Nicolas Couëllan](https://perso.math.univ-toulouse.fr/couellan/), [Rita Fioresi](https://www.dm.unibo.it/~fioresi/) and [Stéphane Puechmorel](https://www.researchgate.net/scientific-contributions/Stephane-Puechmorel-10132359).
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 01 March 2022 - 30 June 2022: Research Internship
+  * [University of Bologna](https://www.unibo.it/en) in Bologna, Italy.
+  * Subject: _Deep Learning: Riemannian and subriemannian structures on the space of models and data manifolds_.
+  * Supervisor: [Rita Fioresi](https://www.dm.unibo.it/~fioresi/).
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* 06 September 2021 - 28 January 2022: Research Internship
+  * [ENAC](https://optim.recherche.enac.fr/) in Toulouse, France.
+  * Subject: _Neural Networks input Foliations and Adversarial Attacks_.
+  * Supervisor: [Nicolas Couëllan](https://perso.math.univ-toulouse.fr/couellan/) and [Stéphane Puechmorel](https://www.researchgate.net/scientific-contributions/Stephane-Puechmorel-10132359).
+
+* 29 March 2021 - 18 July 2020: Research Internship
+  * [Thales Research & Technology](https://www.thalesgroup.com/fr/global/innovation/recherche-technologie) in Palaiseau, France
+  * Subject: _Solving Partial Differential Equations with Equivariant Neural Network_.
+  * Supervisor: [Pierre-Yves Lagrave](https://scholar.google.com/citations?user=4w1rj8IAAAAJ&hl=fr&oi=ao)
+
+* 20 April 2020 - 17 July 2020: Research Internship
+  * [National Institute of Informatics](https://www.nii.ac.jp/en/) in Tokyo, Japan (remote due to covid-19).
+  * Subject: _Machine Learning and Information Geometry: a link with Topological Data Analysis_.
+  * Supervisor: [Mahito Sugiyama](https://mahito.nii.ac.jp/)
+
+* 06 June 2019 - 13 July 2019: Research Internship
+  * [DANTE](https://team.inria.fr/dante/fr/) team, IXXI, LIP, ENS de Lyon in Lyon, France.
+  * Subject: _Featured network embedding using GCN Variational Autoencoders_.
+  * Supervisor: [Márton Karsai](https://perso.ens-lyon.fr/marton.karsai/) and [Sébastien Lérique](https://scholar.google.com/citations?user=dxxuLqsAAAAJ&hl=en)
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+  * [PyTorch](https://pytorch.org/) (main)
+  * [TensorFlow](https://www.tensorflow.org/)
+* LaTeX
+* Git
+* Linux
+  * Bash
+  * Arch-based distributions (currently on Manjaro with i3wm)
+* C++
+* OCaml
+* CSS / HTML
+
+Languages
+======
+* English: C1 Level (CAE)
+* German: I had a B1 level in 2016, not anymore but I'd love to get back at it.
+* Italien: I learned how to communicate during my various stays in Bologna.
 
 Publications
 ======
@@ -59,6 +87,24 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Life Around Research
 ======
-* Currently signed in to 43 different slack teams
+* Regional finalist in [MT180](https://mt180.fr/) (My PhD Thesis in 180s), a pop-science contest.
+* Board member of ENAC's PhD association. 
+* Co-supervision of the Master's thesis of Nicola Rosetti (Master's student at the University of Bologna).
+
+Interests
+======
+* Music
+  * Electronic Music Production
+  * Drummer
+  * Sound-engineering
+* Sport
+  * Climbing
+  * Biking
+  * Hiking
+  * Snowboarding
+* Other
+  * Cooking
+  * Movies
+  * Video games
