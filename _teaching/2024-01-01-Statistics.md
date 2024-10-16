@@ -1,5 +1,5 @@
 ---
-title: "Statistics"
+title: "Statistics (2024)"
 collection: teaching
 type: "Undergraduate course (3rd year post-bac)"
 permalink: /teaching/2024-01-01-Statistics

@@ -1,5 +1,5 @@
 ---
-title: "Measure Theory"
+title: "Measure Theory (2021)"
 collection: teaching
 type: "Undergraduate course (3rd year post-bac)"
 permalink: /teaching/2021-09-01-Measure-Theory
