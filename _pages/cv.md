@@ -51,17 +51,11 @@ Work experience
 
 Skills
 ======
-* Python
-  * [PyTorch](https://pytorch.org/) (main)
-  * [TensorFlow](https://www.tensorflow.org/)
+* Python ([PyTorch](https://pytorch.org/) - main, [TensorFlow](https://www.tensorflow.org/),...)
 * LaTeX
-* Git
-* Linux
-  * Bash
-  * Arch-based distributions (currently on Manjaro with i3wm)
-* C++
-* OCaml
-* CSS / HTML
+* Git, Bash
+* Linux (currently on Manjaro with i3wm)
+* _I learned them at some point_: C++, OCaml, CSS / HTML
 
 Languages
 ======
@@ -87,7 +81,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Life Around Research
+Other
 ======
 * Regional finalist in [MT180](https://mt180.fr/) (My PhD Thesis in 180s), a pop-science contest.
 * Board member of ENAC's PhD association. 
@@ -95,16 +89,6 @@ Life Around Research
 
 Interests
 ======
-* Music
-  * Electronic Music Production
-  * Drummer
-  * Sound-engineering
-* Sport
-  * Climbing
-  * Biking
-  * Hiking
-  * Snowboarding
-* Other
-  * Cooking
-  * Movies
-  * Video games
+* Music (Electronic Music Production, Drummer, Sound-engineering, ...)
+* Sport (Climbing, Biking, Hiking, Snowboarding, ...)
+* Other (Cooking, Movies, Video games, ...)
