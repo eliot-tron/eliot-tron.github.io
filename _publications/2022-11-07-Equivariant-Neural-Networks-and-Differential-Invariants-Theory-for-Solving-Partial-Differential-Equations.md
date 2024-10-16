@@ -1,7 +1,7 @@
 ---
 title: "Equivariant Neural Networks and Differential Invariants Theory for Solving Partial Differential Equations"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2022-11-07-Equivariant-Neural-Networks-and-Differential-Invariants-Theory-for-Solving-Partial-Differential-Equations
 excerpt: "Equivariant Neural Networks for arbitrary symmetry groups to generalize Physics-Informed Neural Networks and approximate differential invariants.<br/><img src='/images/2022-11-07-article-mdpi.png'>"
 date: 2022-11-07
