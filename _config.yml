@@ -21,7 +21,7 @@ repository               : "eliot-tron/eliot-tron.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Eliot Tron"
   pronouns         : "he/him" # example: "she/her"  
   bio              : "PhD Student in Machine Learning and Geometry"
