@@ -14,4 +14,4 @@ citation: 'Lagrave, P.-Y.; Tron, E. Equivariant Neural Networks and Differential
 # Abstract
 This paper discusses the use of Equivariant Neural Networks (ENN) for solving Partial Differential Equations by exploiting their underlying symmetry groups. We first show that Group-Convolutionnal Neural Networks can be used to generalize Physics-Informed Neural Networks and then consider the use of ENN to approximate differential invariants of a given symmetry group, hence allowing to build symmetry-preserving Finite Difference methods without the need to formally derivate corresponding numerical invariantizations. The benefit of our approach is illustrated on the 2D heat equation through the instantiation of an SE(2) symmetry-preserving discretization.
 
-![Illustration image for the paper: representations](http://eliot-tron.github.io/images/2022-11-07-article-mdpi.png)
+<img src='/images/2022-11-07-article-mdpi.png'>
