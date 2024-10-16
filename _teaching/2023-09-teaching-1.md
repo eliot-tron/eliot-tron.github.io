@@ -2,9 +2,9 @@
 title: "Measure Theory"
 collection: teaching
 type: "Undergraduate course (3rd year post-bac)"
-permalink: /teaching/2022-2023-teaching-1
+permalink: /teaching/2023-09-teaching-1
 venue: "ENAC"
-date: 2022-09
+date: 2023-09
 location: "Toulouse, France"
 ---
 

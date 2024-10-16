@@ -2,7 +2,7 @@
 title: "Statistics"
 collection: teaching
 type: "Undergraduate course (3rd year post-bac)"
-permalink: /teaching/2023-2024-teaching-2
+permalink: /teaching/2024-01-teaching-2
 venue: "ENAC"
 date: 2024-01
 location: "Toulouse, France"
