@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course (3rd year post-bac)"
 permalink: /teaching/2023-01-01-Statistics
 venue: "ENAC"
-date: 2023-01-01
+date: 2023-01
 location: "Toulouse, France"
 ---
 

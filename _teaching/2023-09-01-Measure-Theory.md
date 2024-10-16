@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course (3rd year post-bac)"
 permalink: /teaching/2023-09-01-Measure-Theory
 venue: "ENAC"
-date: 2023-09-01
+date: 2023-09
 location: "Toulouse, France"
 ---
 

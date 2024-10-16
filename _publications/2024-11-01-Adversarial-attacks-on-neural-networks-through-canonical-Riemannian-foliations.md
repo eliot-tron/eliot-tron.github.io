@@ -2,7 +2,7 @@
 title: "Adversarial attacks on neural networks through canonical Riemannian foliations"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-Adversarial-attacks-on-neural-networks-through-canonical-Riemannian-foliations
+permalink: /publication/2024-11-01-Adversarial-attacks-on-neural-networks-through-canonical-Riemannian-foliations
 excerpt: 'This paper explores neural network robustness through Riemannian geometry, presenting a novel adversarial attack that highlights the role of curvature in the data space.'
 date: 2024
 venue: 'Machine Learning'
