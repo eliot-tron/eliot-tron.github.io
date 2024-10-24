@@ -61,7 +61,7 @@ Languages
 ======
 * English: C1 Level (CAE)
 * German: I had a B1 level in 2016, not anymore but I'd love to get back at it.
-* Italien: I learned how to communicate during my various stays in Bologna.
+* Italien: I learned the basics during my various stays in Bologna.
 
 Publications
 ======
@@ -83,9 +83,10 @@ Teaching
   
 Other
 ======
-* Regional finalist in [MT180](https://mt180.fr/) (My PhD Thesis in 180s), a pop-science contest.
-* Board member of ENAC's PhD association. 
-* Co-supervision of the Master's thesis of Nicola Rosetti (Master's student at the University of Bologna).
+* 2024-2025 - Board member of ENAC's PhD students' association. 
+* 2024-2025 - PhD students' representative on the ENAC Research Council.
+* 2024 - Regional finalist in [MT180](https://mt180.fr/) (My PhD Thesis in 180s), a pop-science contest.
+* 2023 - Co-supervision of the Master's thesis of Nicola Rosetti (Master's student at the University of Bologna).
 
 Interests
 ======
