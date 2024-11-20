@@ -2,12 +2,12 @@
 title: "Cartan moving frames and the data manifolds"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-09-18-Cartan-moving-frames-and-the-data-manifolds
+permalink: /publication/2024-11-20-Cartan-moving-frames-and-the-data-manifolds
 excerpt: "The study employs Cartan moving frames to analyze data manifolds and their curvature, offering insights into neural network outputs as an explainable AI tool.<br/><img src='/images/2024-09-18-MNIST-ReLU-DIM.png'>"
-date: 2024-09-18
+date: 2024-11-20
 venue: 'ArXiv'
 paperurl: 'https://arxiv.org/abs/2409.12057'
-citation: 'Tron, Eliot; Fioresi, Rita; Couëllan, Nicolas; Puechmorel, Stéphane. (2024). &quot;Cartan moving frames and the data manifolds.&quot; ArXiv preprint, https://doi.org/10.48550/arXiv.2409.12057.'
+citation: 'Tron, Eliot; Fioresi, Rita; Couëllan, Nicolas; Puechmorel, Stéphane. &quot;Cartan moving frames and the data manifolds.&quot; Info. Geo. (2024). https://doi.org/10.1007/s41884-024-00159-8.'
 ---
 
 # Abstract
