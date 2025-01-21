@@ -86,7 +86,7 @@ Other
 * 2024-2025 - Member of ENAC's PhD students' association board. 
 * 2024-2025 - Member of the organizing committee of the ENAC PhD Day.
 * 2024-2025 - PhD students' representative on the ENAC Research Council.
-* 2024 - Regional finalist in [MT180](https://mt180.fr/) (My PhD Thesis in 180s), a pop-science contest.
+* 2024 - Regional finalist in [MT180](https://mt180.fr/) (Three minute thesis), a pop-science contest.
 * 2023 - Part of the supervision of the Master's thesis of Nicola Rosetti (Master's student at the University of Bologna).
 Interests
 ======
