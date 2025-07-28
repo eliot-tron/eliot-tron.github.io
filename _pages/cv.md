@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Machine Learning and Geometry entitled _Neural Network Robustness: a Riemannian Foliation Perspective_, [ENAC](https://optim.recherche.enac.fr/) Toulouse, 2025 (expected)
-* M.S. in Mathematics, [ENS de Lyon](http://www.ens-lyon.fr/), 2021
+* Master (M.S.) in Mathematics, [ENS de Lyon](http://www.ens-lyon.fr/), 2021
 * License (B.S.) in Theoretical Computer Science, [ENS de Lyon](http://www.ens-lyon.fr/), 2019
 * License (B.S.) in Mathematics, [University Lyon 1](https://www.univ-lyon1.fr/), 2019
 
@@ -83,11 +83,14 @@ Teaching
   
 Other
 ======
-* 2024-2025 - Member of ENAC's PhD students' association board. 
-* 2024-2025 - Member of the organizing committee of the ENAC PhD Day.
-* 2024-2025 - PhD students' representative on the ENAC Research Council.
-* 2024 - Regional finalist in [MT180](https://mt180.fr/) (Three minute thesis), a pop-science contest.
-* 2023 - Part of the supervision of the Master's thesis of Nicola Rosetti (Master's student at the University of Bologna).
+* 17-18 June 2025: Member of the organizing and scientific committee for the Calista workshop [_Interplay between data and models in deep learning: a geometric perspective_](https://geomdatamodels.sciencesconf.org).
+* April 2025 - September 2025: Part of the supervision of the research internship of Pablo Hueso Merino (2nd year master's student at Paris-Saclay University).
+* 2024-2025: Member of ENAC's PhD students' association board. 
+* 2024-2025: Member of the organizing committee of the ENAC PhD Day.
+* 2024-2025: PhD students' representative on the ENAC Research Council.
+* 2024: Regional finalist in [MT180](https://mt180.fr/) (Three minute thesis), a pop-science contest.
+* 2023: Part of the supervision of the Master's thesis of Nicola Rosetti (2nd year master's student at the University of Bologna).
+
 Interests
 ======
 * Music (Electronic Music Production, Drummer, Sound-engineering, ...)
