@@ -11,18 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Machine Learning and Geometry entitled _Neural Network Robustness: a Riemannian Foliation Perspective_, [ENAC](https://optim.recherche.enac.fr/) Toulouse, 2025 (expected)
+* Ph.D in Machine Learning and Geometry entitled _The geometry of neural networks : a Riemannian foliation perspective on robustness._, [ENAC](https://optim.recherche.enac.fr/) Toulouse, 20 October 2025
 * Master (M.S.) in Mathematics, [ENS de Lyon](http://www.ens-lyon.fr/), 2021
 * License (B.S.) in Theoretical Computer Science, [ENS de Lyon](http://www.ens-lyon.fr/), 2019
 * License (B.S.) in Mathematics, [University Lyon 1](https://www.univ-lyon1.fr/), 2019
 
 Work experience
 ======
-* 01 October 2022 - End of 2025: PhD Candidate
+* 01 November 2025 - 31 October 2027: Postdoc
+  * [SAMM](https://samm.pantheonsorbonne.fr/), Paris 1 Panthéon Sorbonne and IRIT, Paris, France.
+  * Subject: _New sampling strategies for deep neural networks using information geometry_.
+  * Supervisor: [Alain Celisse](https://www.pantheonsorbonne.fr/page-perso/alain.celisse@), [Alice Le Brigant](https://www.pantheonsorbonne.fr/page-perso/alice.-brigant@) and [Christophe Denis](https://www.pantheonsorbonne.fr/page-perso/christophe.denis1%40).
+
+* 01 October 2022 - 20 October 2025: PhD Candidate
   * [ENAC](https://optim.recherche.enac.fr/), Toulouse, France.
   * 2 months a year at [University of Bologna](https://www.unibo.it/en), Italy.
-  * Subject: _Neural Network Robustness: a Riemannian Foliation Perspective_.
+  * Subject: _The geometry of neural networks : a Riemannian foliation perspective on robustness._.
   * Supervisor: [Nicolas Couëllan](https://perso.math.univ-toulouse.fr/couellan/), [Rita Fioresi](https://www.dm.unibo.it/~fioresi/) and [Stéphane Puechmorel](https://www.researchgate.net/scientific-contributions/Stephane-Puechmorel-10132359).
+  * Thesis available on [HAL](https://enac.hal.science/tel-05391126v1).
 
 * 01 March 2022 - 30 June 2022: Research Internship
   * [University of Bologna](https://www.unibo.it/en) in Bologna, Italy.
@@ -34,7 +40,7 @@ Work experience
   * Subject: _Neural Networks input Foliations and Adversarial Attacks_.
   * Supervisor: [Nicolas Couëllan](https://perso.math.univ-toulouse.fr/couellan/) and [Stéphane Puechmorel](https://www.researchgate.net/scientific-contributions/Stephane-Puechmorel-10132359).
 
-* 29 March 2021 - 18 July 2020: Research Internship
+* 29 March 2021 - 18 July 2021: Research Internship
   * [Thales Research & Technology](https://www.thalesgroup.com/fr/global/innovation/recherche-technologie) in Palaiseau, France
   * Subject: _Solving Partial Differential Equations with Equivariant Neural Network_.
   * Supervisor: [Pierre-Yves Lagrave](https://scholar.google.com/citations?user=4w1rj8IAAAAJ&hl=fr&oi=ao)
