@@ -79,6 +79,8 @@ publication_category:
     title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
+  thesis:
+    title: 'PhD Thesis'    
   conferences:
     title: 'Conference Papers'
 
