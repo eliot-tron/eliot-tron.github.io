@@ -86,16 +86,19 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Students
+======
+* April 2025 - September 2025: Part of the supervision of the research internship of Pablo Hueso Merino (2nd year master's student at Paris-Saclay University).
+* 2023: Part of the supervision of the Master's thesis of Nicola Rosetti (2nd year master's student at the University of Bologna).
   
 Other
 ======
 * 17-18 June 2025: Member of the organizing and scientific committee for the Calista workshop [_Interplay between data and models in deep learning: a geometric perspective_](https://geomdatamodels.sciencesconf.org).
-* April 2025 - September 2025: Part of the supervision of the research internship of Pablo Hueso Merino (2nd year master's student at Paris-Saclay University).
 * 2024-2025: Member of ENAC's PhD students' association board. 
 * 2024-2025: Member of the organizing committee of the ENAC PhD Day.
 * 2024-2025: PhD students' representative on the ENAC Research Council.
 * 2024: Regional finalist in [MT180](https://mt180.fr/) (Three minute thesis), a pop-science contest.
-* 2023: Part of the supervision of the Master's thesis of Nicola Rosetti (2nd year master's student at the University of Bologna).
 
 Interests
 ======
