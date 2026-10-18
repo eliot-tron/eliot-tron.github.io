@@ -1,7 +1,7 @@
 ---
 title: "Talk at the PEPR-IA days"
 collection: talks
-type: "Conference"
+type: "Workshop"
 permalink: /talks/2026-06-24-pepr-rennes
 venue: "PEPR-IA days 2026"
 date: 2026-06-24
