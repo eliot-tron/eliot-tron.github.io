@@ -4,7 +4,7 @@ collection: talks
 type: "Workshop"
 permalink: /talks/2026-10-15-pepr-paris
 venue: "PEPR PDE-AI annual meeting"
-date: 2026-06-24
+date: 2026-10-25
 location: "MAP5, Paris 5 University, France"
 ---
 
